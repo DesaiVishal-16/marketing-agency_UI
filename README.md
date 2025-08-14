@@ -1,6 +1,6 @@
 # Marketing Agency Frontend
 
-[Project Demo](https://marketing-agency-16.netlify.com)
+[Project Demo](https://marketing-agency-16.netlify.app)
 
 A **modern marketing agency frontend** built using Astro and Tailwind, designed for high performance, responsive design, and interactive UI components.
 
